@@ -3,7 +3,7 @@
 public class Main {
     static String greeting = "Hello World" ;
     public static void main(String[] args) {
-        System.out.println("Hey");
+        System.out.println("Heyyou");
         System.out.println(greeting + "From Deepanshu" + "04/12" );
         System.out.println(greeting + args[0]);
     }
